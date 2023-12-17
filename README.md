@@ -12,7 +12,6 @@ Number Series: Generate Fibonacci series.
 Number Relationships: Find the greatest common factor (GCF) and least common multiple (LCM) of two numbers.
 Year Properties: Check if a year is a leap year.
 
-
 How to Use
 Clone the repository to your local machine.
 Compile and run the Main.java file.
